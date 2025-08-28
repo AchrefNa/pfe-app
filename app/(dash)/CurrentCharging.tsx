@@ -41,7 +41,6 @@ interface Reservation {
 
 const CurrentChargingScreen = () => {
   const [[_, sessionId], setSession] = useStorageState("sessionId");
-  console.log("🚀 ~ CurrentChargingScreen ~ sessionId:", sessionId)
 
   const router = useRouter();
   const { fetchActiveSession, endChargingSession } = useReservationService();
