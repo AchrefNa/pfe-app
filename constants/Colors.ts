@@ -1,0 +1,20 @@
+export const Colors = {
+    background: '#f5f5f5',
+    logoBackground: '#E8F5E8',
+    logoText: '#8c4caf',
+    googleBorder: '#8c4caf',
+    emailBackground: '#8c4caf',
+    emailText: '#fff',
+    divider: '#999',
+    apple: '#f0f0f0',
+    facebook: '#E3F2FD',
+    black: '#000',
+   darkText: '#333',
+   white: '#fff',
+   green: '#8c4caf',
+   grey: '#666',
+   lightGrey: '#f0f0f0',
+   lightBlue: '#E3F2FD',
+   shadow: '#000',
+    }
+  
